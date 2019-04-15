@@ -1,6 +1,8 @@
 # object-detection-yolov2
 Object-detection-tutorials with YOLOv2(Pytorch)
 
+Simple porting from tensorflow to pytorch (https://github.com/JongsooKeum/yolov2-tensorflow)
+
 # Contributor
 - Jongsoo Keum
 
